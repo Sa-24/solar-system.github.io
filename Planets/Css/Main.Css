@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.block1{
+    width: 100vw;
+    height: 98vh;
+    background: url(https://www.rsc.org/cpd/teachers/content/filerepository/frg/images/AN_Cl_01_shutterstock_1827206.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 60px;
+    font-weight: 20px;
+    color: rgba(245, 245, 245, 0.685);
+    text-align: left;
+    text-shadow: 5px 5px 8px rgba(177, 54, 54);
+    text-transform: uppercase;
+    padding: 190px 0 0 0;
+}
+p{
+    font-size:30px;
+    font-weight: 10px;
+    color: rgba(245, 245, 245, 0.685);
+    text-align: justify;
+    text-shadow: 5px 5px 8px rgba(177, 54, 54);
+    margin:0 0 300px 0;
+}
+a{
+   padding: 10px 30px;
+   font-size: 20px;
+   font-weight: 20px;
+   text-decoration: none;
+   color: rgba(245, 245, 245, 0.685);
+   text-shadow:5px 5px 8px rgba(177, 54, 54);
+   border-radius: 20px;
+   border: 2px solid;
+   background: rgba(210, 180, 140, 0.589)
+}
